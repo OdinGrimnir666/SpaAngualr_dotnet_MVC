@@ -1,0 +1,484 @@
+[02:11:31 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[02:19:46 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[02:38:59 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Unable to connect to the SPA development server at 'https://localhost:44491'.
+[02:46:41 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[02:54:27 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:00:50 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[03:02:31 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[03:02:59 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:06:15 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:06:18 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:06:22 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:06:25 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:06:28 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:06:31 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[03:08:34 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:09:22 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'ng start'.
+[03:11:53 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:11:57 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:12:00 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:12:03 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:12:06 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:12:09 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:12:13 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:14:53 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:21:32 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:21:35 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:21:39 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:21:42 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:40:20 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:40:24 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:40:27 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:40:30 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:40:33 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:40:36 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:40:40 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:40:43 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:40:46 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:40:49 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:40:52 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:42:15 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:42:19 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:42:22 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:42:25 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:42:28 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:42:32 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:42:35 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:42:38 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:42:41 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:42:44 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:42:47 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:42:51 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:42:54 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:42:57 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:43:01 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:43:04 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:43:07 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:44:22 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:44:26 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:44:29 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:44:32 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:44:35 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:44:38 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:44:41 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:44:45 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:44:48 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:44:51 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:44:54 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:44:57 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:45:00 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:45:03 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:45:07 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:45:10 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:45:13 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:45:16 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:45:19 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:45:22 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:45:26 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:45:29 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:45:32 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:45:35 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:45:38 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:45:41 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:45:45 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:45:48 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:45:51 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:45:54 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:45:57 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:46:00 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:46:04 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:46:07 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:46:10 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:46:13 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:46:16 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:46:19 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:46:23 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:46:26 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:46:29 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:46:32 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:46:35 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:46:38 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:46:41 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:46:45 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:46:48 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:46:51 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:46:54 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:46:57 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:47:00 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:47:03 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:47:07 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:47:10 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:47:13 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:47:16 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:47:19 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:47:22 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:47:25 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:47:29 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:47:32 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:47:35 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:47:38 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:47:41 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:47:44 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:47:48 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:47:51 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:47:54 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:47:57 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:48:00 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:48:04 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:48:07 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:48:10 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:48:13 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:48:16 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:48:19 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:48:22 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:48:26 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:48:29 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:48:32 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:48:35 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:48:38 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:48:41 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:48:44 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:48:48 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:48:51 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:48:54 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:48:58 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:49:00 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:49:03 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[03:49:08 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:49:11 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:49:14 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:49:18 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm run-script-os'.
+[03:49:23 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:49:26 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:49:29 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:49:32 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:49:35 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:49:39 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:49:42 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:49:45 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:49:48 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:49:51 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:49:54 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:49:57 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:50:01 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:50:04 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:50:07 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:54:29 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:54:32 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:54:35 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:54:39 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:54:42 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:54:45 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:54:48 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:54:51 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:54:55 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:54:58 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:55:01 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:55:04 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[03:56:50 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[03:57:18 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:58:35 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[03:58:38 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[03:59:31 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Failed to launch the SPA development server 'run-script-os'.
+System.ArgumentOutOfRangeException: Length cannot be less than zero. (Parameter 'length')
+   at System.String.ThrowSubstringArgumentOutOfRange(Int32 startIndex, Int32 length)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.LaunchDevelopmentProxy()
+[03:59:31 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'run-script-os'.
+[03:59:44 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Failed to launch the SPA development server 'start'.
+System.ArgumentOutOfRangeException: Length cannot be less than zero. (Parameter 'length')
+   at System.String.ThrowSubstringArgumentOutOfRange(Int32 startIndex, Int32 length)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.LaunchDevelopmentProxy()
+[03:59:44 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'start'.
+[04:00:22 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Failed to launch the SPA development server ''.
+System.ArgumentOutOfRangeException: Length cannot be less than zero. (Parameter 'length')
+   at System.String.ThrowSubstringArgumentOutOfRange(Int32 startIndex, Int32 length)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.LaunchDevelopmentProxy()
+[04:00:22 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command ''.
+[04:01:25 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:01:27 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:01:30 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:01:33 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Failed to launch the SPA development server 'ng'.
+System.ArgumentOutOfRangeException: Length cannot be less than zero. (Parameter 'length')
+   at System.String.ThrowSubstringArgumentOutOfRange(Int32 startIndex, Int32 length)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.LaunchDevelopmentProxy()
+[04:01:33 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'ng'.
+[04:05:08 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:05:12 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:05:15 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:05:18 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:05:21 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:05:25 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:05:27 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[04:11:19 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:11:23 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:11:26 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:17:49 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:17:53 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:17:56 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:17:59 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[04:22:31 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:22:34 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:22:37 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:22:40 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:30:39 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:30:43 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:30:45 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:33:15 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:33:17 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:34:43 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Failed to launch the SPA development server 'start'.
+System.ArgumentOutOfRangeException: Length cannot be less than zero. (Parameter 'length')
+   at System.String.ThrowSubstringArgumentOutOfRange(Int32 startIndex, Int32 length)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.LaunchDevelopmentProxy()
+[04:34:43 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'start'.
+[04:36:36 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Failed to launch the SPA development server 'start'.
+System.ArgumentOutOfRangeException: Length cannot be less than zero. (Parameter 'length')
+   at System.String.ThrowSubstringArgumentOutOfRange(Int32 startIndex, Int32 length)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.LaunchDevelopmentProxy()
+[04:36:36 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'start'.
+[04:37:00 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Failed to launch the SPA development server 'start'.
+System.ArgumentOutOfRangeException: Length cannot be less than zero. (Parameter 'length')
+   at System.String.ThrowSubstringArgumentOutOfRange(Int32 startIndex, Int32 length)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.LaunchDevelopmentProxy()
+[04:37:00 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'start'.
+[04:38:15 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:38:19 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:38:22 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:38:25 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:38:28 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:38:32 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:38:35 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:38:38 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:38:41 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:38:44 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:38:47 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:38:51 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:38:54 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:38:58 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:39:00 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:39:03 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:39:06 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:39:10 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:39:13 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:39:16 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:39:19 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:39:22 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:39:26 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:39:29 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:39:32 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:39:35 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:39:38 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:39:41 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:39:45 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:39:48 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:39:51 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:39:54 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:39:57 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:40:00 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:40:04 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:40:07 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:40:10 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:40:13 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:40:16 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:40:19 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[04:40:23 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:40:26 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:40:29 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:40:32 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:40:35 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:40:39 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:40:42 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:40:45 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:40:48 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:41:19 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'ng server'.
+[04:41:54 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'ng serve'.
+[04:44:02 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:44:05 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:44:08 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:44:11 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:44:14 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:44:18 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:44:21 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:44:24 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:44:27 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:44:30 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:44:34 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:44:37 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:44:40 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:44:43 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:44:46 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:44:50 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:44:53 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:44:56 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:44:59 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:45:02 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:45:06 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:45:09 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:45:12 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:45:15 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:45:18 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:45:22 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:45:25 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:45:28 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:45:31 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Couldn't start the SPA development server with command 'npm start'.
+[04:46:44 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[04:48:48 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Unable to connect to the SPA development server at 'https://localhost:44422'.
+[04:49:21 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[04:51:40 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[04:51:58 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[04:53:01 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[04:54:26 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[04:55:35 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[04:58:35 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Unable to connect to the SPA development server at 'https://localhost:44422'.
+[04:59:17 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[05:01:41 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Unable to connect to the SPA development server at 'https://localhost:44422'.
+[05:02:38 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[05:04:42 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Unable to connect to the SPA development server at 'https://localhost:44422'.
+[05:06:38 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[05:08:41 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Unable to connect to the SPA development server at 'https://localhost:44422'.
+[05:10:43 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Unable to connect to the SPA development server at 'https://localhost:44422'.
+[05:11:47 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[05:13:50 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Unable to connect to the SPA development server at 'https://localhost:44422'.
+[05:15:04 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[05:16:33 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[05:16:45 ERR] Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Swagger.ISwaggerProvider' while attempting to Invoke middleware 'Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware'.
+   at lambda_method1(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[05:16:49 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[05:17:01 ERR] Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Swagger.ISwaggerProvider' while attempting to Invoke middleware 'Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware'.
+   at lambda_method1(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[05:17:12 ERR] Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Swagger.ISwaggerProvider' while attempting to Invoke middleware 'Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware'.
+   at lambda_method1(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[05:17:56 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[05:20:01 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Unable to connect to the SPA development server at 'https://localhost:44422'.
+[05:24:12 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[05:26:39 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - Unable to connect to the SPA development server at 'https://localhost:44422'.
+[05:31:01 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[05:32:59 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[05:34:02 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[05:34:43 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[05:36:21 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[05:37:54 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)
+[05:38:41 ERR] Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager - There was an error trying to launch the SPA proxy.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.StartSpaProcessAndProbeForLiveness(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager.<StartInBackground>g__UpdateStatus|7_0(Task launchTask)

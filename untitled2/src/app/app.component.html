@@ -1,0 +1,29 @@
+<mat-toolbar  >
+  <button mat-icon-button routerLink="/" aria-label="Главная">
+    <mat-icon>menu</mat-icon>
+  </button>
+
+  <span class="example-spacer"></span>
+  <div style="text-align: right;">
+  <button    mat-icon-button [matMenuTriggerFor]="menu" aria-label="Почати Роботу">
+    <span  >Почати Роботу</span>
+    <mat-icon>arrow_drop_down</mat-icon>
+  </button>
+
+  <mat-menu #menu="matMenu" >
+    <button mat-menu-item routerLink="" routerLinkActive="active" aria-label="Пошук за користувачами">Пошук за користувачами</button>
+
+      <button mat-menu-item routerLink="add/user" routerLinkActive="active" aria-label="Додати короистувача">Додати короистувача</button>
+
+      <button mat-menu-item routerLink="add/group" routerLinkActive="active" aria-label="Додати групу">Додати групу</button>
+    </mat-menu>
+  </div>
+
+
+
+</mat-toolbar>
+<div style="min-height: 100vh; background-color: #f8f9fa; width: 100%; max-width: 100%; overflow: scroll; height: 100%">
+  <router-outlet>
+  </router-outlet>
+</div>
+

@@ -1,0 +1,37 @@
+.outer-container {
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+  margin-top: 0;
+
+  padding: 20px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+
+}
+
+.form-container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+
+
+.example-form {
+  text-align: center;
+}
+
+.mat-form-field {
+  width: 100%;
+  margin-bottom: 15px;
+  padding-left: 10px; /* Отступ слева внутри поля */
+  padding-right: 10px;
+}
+
+.center-button {
+  text-align: center;
+  margin-top: 20px;
+}

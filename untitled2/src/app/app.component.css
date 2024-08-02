@@ -1,0 +1,9 @@
+.my-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.flex-end {
+  display: flex;
+  align-items: center; /* Вирівнюємо по вертикалі, якщо потрібно */
+}

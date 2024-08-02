@@ -1,0 +1,9 @@
+
+
+<div *ngIf="Users"  >
+      <app-show-user [Users]="Users" />
+
+
+  <mat-paginator [length]="countUsers" [pageSizeOptions]="[10]" aria-label="Select page" (page)="onPaginatorChange($event)"
+                 [(ngModel)]="pages"> </mat-paginator>
+  </div>

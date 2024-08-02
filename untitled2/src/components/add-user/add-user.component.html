@@ -1,0 +1,23 @@
+<div class="outer-container">
+  <div class="form-container mat-elevation-z2">
+    <h2 class="form-title">Добавление пользователя</h2>
+      <mat-form-field appearance="outline" class="mat-form-field">
+        <mat-label>Имя</mat-label>
+        <input type="text" name="userName" matInput placeholder="Введіть ваше ім'я" [(ngModel)]="userName">
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="mat-form-field">
+        <mat-label>Email</mat-label>
+        <input name="email" matInput type="email" placeholder="Введіть Ваш email" [(ngModel)]="email">
+      </mat-form-field>
+    <mat-form-field class="mat-form-field">
+      <mat-label>Вибір групи</mat-label>
+      <mat-select [formControl]="toppings" multiple>
+        <mat-option *ngFor="let topping of group" [value]="topping">{{ topping.groupName }}</mat-option>
+      </mat-select>
+    </mat-form-field >
+      <div class="center-button" >
+        <button mat-raised-button color="primary" (click)="handleButtonClick()"  >Додати</button>
+      </div>
+  </div>
+</div>

@@ -1,0 +1,28 @@
+
+.demo-table {
+
+  border-collapse: collapse;
+  border: none;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.demo-table th, .demo-table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+.demo-table th {
+  background-color: #f5f5f5;
+  font-weight: bold;
+}
+
+
+.demo-table td, .demo-table th {
+  width: auto;
+}
+
+.demo-table td, .demo-table th {
+  box-sizing: border-box;
+}

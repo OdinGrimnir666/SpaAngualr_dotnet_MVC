@@ -1,0 +1,32 @@
+.outer-container {
+  max-width: 600px; /* Максимальная ширина внешнего контейнера */
+  margin: auto;
+  text-align: center;
+  margin-top: 0;
+  padding: 20px;
+  background-color: #f0f0f0; /* Светло-серый фон */
+  border: 1px solid #ccc; /* Рамка темного серого цвета */
+  border-radius: 5px; /* Закругление углов */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Тень */
+}
+
+.form-container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.example-form {
+  text-align: center;
+}
+
+.mat-form-field {
+  width: calc(100% - 30px); /* Уменьшение ширины на 30px для отступов */
+  margin: 0 15px 15px 15px; /* Отступы: 15px слева и справа, 15px снизу */
+  box-sizing: border-box; /* Учитывает padding и border в ширине элемента */
+}
+
+.center-button {
+  text-align: center;
+  margin-top: 20px;
+}

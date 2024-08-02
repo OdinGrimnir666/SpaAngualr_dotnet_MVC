@@ -1,0 +1,13 @@
+<div class="outer-container">
+  <div class="form-container mat-elevation-z2">
+    <h2 class="form-title">Додати групу</h2>
+    <mat-form-field appearance="outline">
+      <mat-label>Имя</mat-label>
+      <input type="text" name="nameGroup" matInput placeholder="вести назву групи" [(ngModel)]="nameGroup">
+    </mat-form-field>
+
+    <div class="center-button">
+      <button mat-raised-button color="primary" (click)="handleButtonClick()" >Додати</button>
+    </div>
+  </div>
+</div>
